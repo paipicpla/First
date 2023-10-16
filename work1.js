@@ -9,7 +9,7 @@ function work() {
     console.log('work1 start-7');
     console.log('work1 start-8');
     console.log('work1 start-9');
-    console.log('work1 start-0');
+    console.log('work1 start-10');
     console.log('work1 start-11');
     console.log('work1 start-12');
     console.log('work1 start-13');
@@ -19,5 +19,5 @@ function work() {
     console.log('work1 start-17');
     console.log('work1 start-18');
     console.log('work1 start-19');
-    console.log('work1 start-10');
+    console.log('work1 start-20');
 }
